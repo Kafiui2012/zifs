@@ -1,4 +1,4 @@
-Package: ZIFS
+Package: zifs
 Type: Package
 Title: Zero-Inflated Flory-Schulz Distribution
 Version: 0.1.0
