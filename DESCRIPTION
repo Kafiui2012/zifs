@@ -1,0 +1,17 @@
+Package: ZIFS
+Type: Package
+Title: Zero-Inflated Flory-Schulz Distribution
+Version: 0.1.0
+Authors@R: person("Rahmat Al", "Kafi",
+    email = "rahmat.alkafi@sci.ui.ac.id",
+    role = c("aut", "cre"))
+Description: Functions for the Zero-Inflated Flory-Schulz (ZIFS)
+    distribution including density, distribution, quantile,
+    random generation, estimation, and model selection criteria.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Imports:
+    lamW
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.3
